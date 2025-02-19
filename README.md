@@ -42,4 +42,4 @@ Funzionalità principali:
 - Esecuzione di script: MBSharp consente di eseguire script (.mbs) contenenti comandi semplici, permettendo di automatizzare operazioni e logiche di programmazione.
 - Uscita dal programma: La libreria offre un metodo per terminare l'esecuzione del programma in modo controllato.
 
- #### Note
+ ### Note
