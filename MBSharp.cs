@@ -96,7 +96,7 @@ namespace MBSharp
         {
             foreach(string item in array)
             {
-                Console.WriteLine(item);
+                Console.WriteLine(item + " || ");
             }
         }
         //Int
@@ -104,7 +104,7 @@ namespace MBSharp
         {
             foreach (int item in array)
             {
-                Console.WriteLine(item);
+                Console.WriteLine(item + " || ");
             }
         }
         //Char
@@ -112,7 +112,7 @@ namespace MBSharp
         {
             foreach (char item in array)
             {
-                Console.WriteLine(item);
+                Console.WriteLine(item + " || ");
             }
         }
         //Double
@@ -120,7 +120,7 @@ namespace MBSharp
         {
             foreach (double item in array)
             {
-                Console.WriteLine(item);
+                Console.WriteLine(item + " || ");
             }
         }
         //Float
@@ -128,7 +128,7 @@ namespace MBSharp
         {
             foreach (float item in array)
             {
-                Console.WriteLine(item);
+                Console.WriteLine(item + " || ");
             }
         }
         //Bool
@@ -136,7 +136,7 @@ namespace MBSharp
         {
             foreach (bool item in array)
             {
-                Console.WriteLine(item);
+                Console.WriteLine(item + " || ");
             }
         }
         //Decimal
@@ -144,7 +144,7 @@ namespace MBSharp
         {
             foreach (decimal item in array)
             {
-                Console.WriteLine(item);
+                Console.WriteLine(item + " || ");
             }
         }
 
