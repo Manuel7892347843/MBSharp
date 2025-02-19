@@ -16,7 +16,7 @@
   - Float
   - Bool
   - Decimal
-- **Lettura di array**: MBSharp supporta la lettura e la visualizzazione di array di vari tipi di dati, permettendo di gestire collezioni di dati in modo semplice.
+- [**Lettura di array**](LetArray/LetturaArray.md): MBSharp supporta la lettura e la visualizzazione di array di vari tipi di dati, permettendo di gestire collezioni di dati in modo semplice.
 - **Gestione di file**:
   - Lettura di file: Leggi il contenuto di un file di testo e stampalo sulla console, utile per visualizzare dati esterni.
   - Scrittura di file: Scrivi testo in un file specificato, consentendo di salvare dati generati o acquisiti.
