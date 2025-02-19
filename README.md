@@ -9,7 +9,7 @@ Per utilizzare MBSharp nel tuo progetto, segui questi semplici passaggi:
 1. **Scarica il file**: Vai alla sezione "Code" della repository GitHub e scarica il file `MBSharp.cs` tramite uno dei metodi che preferisci.
 2. **Aggiungi al tuo progetto**: Inserisci il file `MBSharp.cs` prelevato dalla cartella scaricata/clonata di GitHub e inserisci il file `MBSharp.cs` nella cartella del tuo progetto C#.
 
-### Caratteristiche
+## Caratteristiche
 
 Funzionalità principali:
 - Scrittura di dati: MBSharp supporta la scrittura di vari tipi di dati, consentendo di stampare facilmente informazioni sulla console. I tipi supportati includono:
@@ -42,4 +42,4 @@ Funzionalità principali:
 - Esecuzione di script: MBSharp consente di eseguire script (.mbs) contenenti comandi semplici, permettendo di automatizzare operazioni e logiche di programmazione.
 - Uscita dal programma: La libreria offre un metodo per terminare l'esecuzione del programma in modo controllato.
 
- ### Note
+ ## Note
