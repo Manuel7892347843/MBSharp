@@ -6,4 +6,4 @@ Leggi il contenuto di un file di testo e stampalo sulla console, utile per visua
 
 | Richiamo | Descrizione |
 |--------------------------|--------------|
-| `FilesReading(string filePath)` | Leggi un file di testo utilizando il suo **path** per localizzarlo|
+| `FileReading(string filePath)` | Leggi un file di testo utilizando il suo **path** per localizzarlo|
