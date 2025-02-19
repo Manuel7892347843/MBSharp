@@ -150,8 +150,8 @@ namespace MBSharp
 
         #endregion
 
-        #region FilesReading
-        static public void FilesReading(string filePath)
+        #region FileReading
+        static public void FileReading(string filePath)
         {
             
             string[] lines = File.ReadAllLines(filePath);
@@ -163,8 +163,8 @@ namespace MBSharp
         }
         #endregion
 
-        #region FilesWriting
-        static public void FilesWriting(string filePath, string text)
+        #region FileWriting
+        static public void FileWriting(string filePath, string text)
         {
             File.WriteAllText(filePath, text);
         }
