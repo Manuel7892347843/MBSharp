@@ -45,3 +45,4 @@ Funzionalità principali:
 ## Note
 - Questa libreria è progettata per semplificare la gestione dei dati in C#. È ideale per progetti che richiedono operazioni di input/output semplici e conversioni di tipo.
 - Assicurati di gestire le eccezioni e gli errori.
+[Visualizza il README secondario](documentation/README.md)
