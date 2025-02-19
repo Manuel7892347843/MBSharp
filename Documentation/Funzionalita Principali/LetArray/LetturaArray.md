@@ -4,7 +4,7 @@ Origine : [`MBSharp.cs`](../../../MBSharp.cs)
 
 | Tipi di lettura| Descrizione | Output |
 |----------------|-------------|--------|
-| ReadArray(string[] array) | Legge un array di `string` | `"ciao" || "come" || "stai" || ....`  |
+| ReadArray(string[] array) | Legge un array di `string` | `"ciao" \|\| "come" \|\| "stai" \|\| ....`  |
 | ReadArray(int[] array) |Legge un array di `int` |
 | ReadArray(char[] array) | Legge un array di `char` |
 | ReadArray(double[] array) | Legge un array di  `double` |
