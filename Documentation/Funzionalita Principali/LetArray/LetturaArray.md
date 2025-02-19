@@ -2,6 +2,8 @@
 
 Origine : [`MBSharp.cs`](../../../MBSharp.cs)
 
+MBSharp supporta la lettura e la visualizzazione di array di vari tipi di dati, permettendo di gestire collezioni di dati in modo semplice.
+
 | Tipi di lettura| Descrizione | Output |
 |----------------|-------------|--------|
 | ReadArray(string[] array) | Legge un array di `string` | `"ciao" \|\| "come" \|\| "stai" \|\| ....`  |

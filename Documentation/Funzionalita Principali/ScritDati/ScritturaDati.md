@@ -2,6 +2,8 @@
 
 Origine : [`MBSharp.cs`](../../../MBSharp.cs)
 
+MBSharp supporta la scrittura di vari tipi di dati, consentendo di stampare facilmente informazioni sulla console. I tipi supportati includono.
+
 | Tipi di scrittura | Descrizione |
 |--------------------------|------------|
 | Write(string message) | Scrive in console un messaggio di tipo `string`|

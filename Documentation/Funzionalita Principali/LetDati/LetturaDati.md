@@ -2,6 +2,8 @@
 
 Origine : [`MBSharp.cs`](../../../MBSharp.cs)
 
+La libreria consente di leggere vari tipi di dati dall'input dell'utente, facilitando l'interazione con l'utente. I tipi supportati includono.
+
 | Tipi di lettura| Descrizione |
 |----------------|-------------|
 | Read() | Legge una `string`, successiva alla richiesta di input |

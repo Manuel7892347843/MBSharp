@@ -1,25 +1,9 @@
 # MBSharp - Funzionalità principali
 
-- [**Scrittura di dati**](ScritDati/ScritturaDati.md): MBSharp supporta la scrittura di vari tipi di dati, consentendo di stampare facilmente informazioni sulla console. I tipi supportati includono:
-  - String: Messaggi di testo
-  - Int: Numeri interi
-  - Char: Singoli caratteri
-  - Double: Numeri in virgola mobile a doppia precisione
-  - Float: Numeri in virgola mobile a precisione singola
-  - Bool: Valori booleani (vero/falso)
-  - Decimal: Numeri decimali ad alta precisione
-- [**Lettura di dati**](LetDati/LetturaDati.md): La libreria consente di leggere vari tipi di dati dall'input dell'utente, facilitando l'interazione con l'utente. I tipi supportati includono:
-  - String
-  - Int
-  - Char
-  - Double
-  - Float
-  - Bool
-  - Decimal
-- [**Lettura di array**](LetArray/LetturaArray.md): MBSharp supporta la lettura e la visualizzazione di array di vari tipi di dati, permettendo di gestire collezioni di dati in modo semplice.
-- **Gestione di file**:
-  - Lettura di file: Leggi il contenuto di un file di testo e stampalo sulla console, utile per visualizzare dati esterni.
-  - Scrittura di file: Scrivi testo in un file specificato, consentendo di salvare dati generati o acquisiti.
+- [**Scrittura di dati**](ScritDati/ScritturaDati.md)
+- [**Lettura di dati**](LetDati/LetturaDati.md)
+- [**Lettura di array**](LetArray/LetturaArray.md)
+- [**Gestione dei file**](GestFile/GestioneFile.md):
 - **Conversione di tipi**: La libreria fornisce metodi per convertire tra vari tipi di dati, facilitando la manipolazione dei dati. Le conversioni supportate includono:
   - String ↔ Int
   - String ↔ Char
