@@ -6,4 +6,4 @@ Scrivi testo in un file specificato, consentendo di salvare dati generati o acqu
 
 | Richiamo | Descrizione |
 |--------------------------|--------------|
-| `FileReading(string filePath)` | Leggi un file di testo utilizando il suo **path** per localizzarlo|
+| `FileWriting(string filePath, string text)` | Crea e/o scrive un testo nel file specificando la sua posizione tramite il **path**|
