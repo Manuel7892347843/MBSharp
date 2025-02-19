@@ -8,7 +8,7 @@
   - Float: Numeri in virgola mobile a precisione singola
   - Bool: Valori booleani (vero/falso)
   - Decimal: Numeri decimali ad alta precisione
-- **Lettura di dati**: La libreria consente di leggere vari tipi di dati dall'input dell'utente, facilitando l'interazione con l'utente. I tipi supportati includono:
+- [**Lettura di dati**](LetDati/LetturaDati.md): La libreria consente di leggere vari tipi di dati dall'input dell'utente, facilitando l'interazione con l'utente. I tipi supportati includono:
   - String
   - Int
   - Char
