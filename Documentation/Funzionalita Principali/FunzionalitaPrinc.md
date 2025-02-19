@@ -3,7 +3,7 @@
 - [**Scrittura di dati**](ScritDati/ScritturaDati.md)
 - [**Lettura di dati**](LetDati/LetturaDati.md)
 - [**Lettura di array**](LetArray/LetturaArray.md)
-- [**Gestione dei file**](GestFile/GestioneFile.md):
+- [**Gestione dei file**](GestFile/GestioneFile.md)
 - **Conversione di tipi**: La libreria fornisce metodi per convertire tra vari tipi di dati, facilitando la manipolazione dei dati. Le conversioni supportate includono:
   - String ↔ Int
   - String ↔ Char
