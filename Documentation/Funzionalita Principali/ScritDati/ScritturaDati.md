@@ -1,6 +1,6 @@
 # MBSharp - Scrittura di dati
 
-Origine : `MBSharp.cs`
+Origine : [`MBSharp.cs`](../../../MBSharp.cs)
 
 | Tipi di scrittura | Descrizione |
 |--------------------------|------------|
