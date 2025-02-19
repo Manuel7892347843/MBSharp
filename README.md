@@ -11,4 +11,4 @@ Per utilizzare MBSharp nel tuo progetto, segui questi semplici passaggi:
 
 ## Impara di più su MBSharp
 
-1. [Caratteristiche](Documentation/Caratteristiche.md)
+1. **[Funzionalita Principali]**(Documentation/FunzionalitaPrinc.md)
