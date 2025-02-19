@@ -1,6 +1,6 @@
 # MBSharp - Funzionalità principali
 
-- **Scrittura di dati**: MBSharp supporta la scrittura di vari tipi di dati, consentendo di stampare facilmente informazioni sulla console. I tipi supportati includono:
+- [**Scrittura di dati**](/ScritDati/ScritturaDati.md): MBSharp supporta la scrittura di vari tipi di dati, consentendo di stampare facilmente informazioni sulla console. I tipi supportati includono:
   - String: Messaggi di testo
   - Int: Numeri interi
   - Char: Singoli caratteri
