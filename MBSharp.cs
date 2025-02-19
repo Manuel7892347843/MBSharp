@@ -8,24 +8,6 @@ using System.Threading.Tasks;
 
 namespace MBSharp
 {
-    /*
-    MBSharp Source Code || Version 1.0
-    Open Source Library for C# by Manuel Belli
-    Features:
-    - Write -> Types: String, Int, Char, Double, Float, Bool, Decimal
-    - Read -> Types: String, Int, Char, Double, Float, Bool, Decimal
-    - Read Array -> Types: String, Int, Char, Double, Float, Bool, Decimal
-    - FilesReading -> Read a file
-    - FilesWriting -> Write a file
-    - Conevertion -> Types: String, Int, Char, Double, Float, Bool, Decimal
-    - ExecuteScript (.mbs) -> Interpret (private)
-    - Stop -> Exit the program
-
-    P.S.: 
-    - This is a simple library for C# that allows you to write and read data in a simple way.
-    - The variables region is not used to store variables that the user can use, but to store the variables that the library uses.
-    */
-
     class MBSharp
     {
         #region Variables
